@@ -6,7 +6,7 @@ export const Bio = {
   ],
   description:
     "A passionate Blockchain Full-stack with expertise in Web3 and responsive web applications. Focusing on Smart contracts, trading dApps and Blockchain AI Agent on Solana, EVM based blockchain. Experience spans NFTs, crypto games, DeFi, DEXs and crypto trading bots. As a Full-Stack Engineer, I builds scalable applications using React, Next.js, TypeScript, Node.js, Rust, Golang, and Solidity. Passionate about blockchain innovation, he is always exploring new opportunities for growth.",
-  github: "https://github.com/borislee-gif",
+  github: "https://github.com/husereo",
   resume:
     "https://drive.google.com/file/d/1txFKZD3LNIXMc329jD9c995AU8LItOXK/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
